@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x302c48a9385F64590DC7b1EbC5F8C25A4f65Ddf2",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x302c48a9385f64590dc7b1ebc5f8c25a4f65ddf2",
+  "NETWORK": {
+    "NAME": "Ether",
+    "SYMBOL": "Rinkeby",
+    "ID": 137
+  },
+  "NFT_NAME": "Psychedelic Kevins",
+  "SYMBOL": "PsychKevinsNFT",
+  "MAX_SUPPLY": 959,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/psychedelic-kevins-8vtqrdpj8u",
+  "SHOW_BACKGROUND": true
+}
